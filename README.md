@@ -23,6 +23,3 @@ Veja o resultado deste projeto pelo QR Code abaixo, ou pelo [LINK](https://hugob
 
 <li>Fácil de usar: A interface é intuitiva e de fácil navegação, permitindo que o usuário encontre rapidamente o que procura.
 
-
-Este projeto visa realizar um menu digital com QR Code, utilizaremos da tecnologia de Front-End com Html e CSS.
-
