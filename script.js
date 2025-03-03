@@ -93,7 +93,7 @@ const menu = [
     category: "CERVEJAS",
     price: 15.00,
     img: "./beer/heineken.webp",
-    desc: `Cerveja Heineken de 600ml. Super gelada!`, 
+    desc: `Cerveja Heineken de 600ml. Super gelada!`,
   },
   {
     id: 13,
@@ -101,7 +101,7 @@ const menu = [
     category: "CERVEJAS",
     price: 11.00,
     img: "./beer/amstel.jpg",
-    desc: `Cerveja Amstel de 600ml. Cerveja Super gelada!`, 
+    desc: `Cerveja Amstel de 600ml. Cerveja Super gelada!`,
   },
   {
     id: 14,
@@ -109,7 +109,7 @@ const menu = [
     category: "CERVEJAS",
     price: 5.50,
     img: "./beer/original.webp",
-    desc: `Cerveja Antarctica Original de 300ml. Super gelada!`, 
+    desc: `Cerveja Antarctica Original de 300ml. Super gelada!`,
   },
   {
     id: 15,
@@ -117,7 +117,7 @@ const menu = [
     category: "CERVEJAS",
     price: 5.00,
     img: "./beer/antarctica.jpg",
-    desc: `Cerveja Antarctica de 300ml. Cerveja Super gelada!`, 
+    desc: `Cerveja Antarctica de 300ml. Cerveja Super gelada!`,
   },
   {
     id: 16,
@@ -279,7 +279,7 @@ const menu = [
     img: "./img/suco.jpg",
     desc: `750ml de suco de polpa. Vários sabores disponíveis.`,
   },
-  
+
 ];
 
 const sectionMaster = document.querySelector(".section-center")
@@ -299,7 +299,7 @@ function displayMenuItems(menuItems) {
     <div class="item-info">
       <header>
         <h4>${item.title}</h4>
-        <h4 class="price">$${item.price}</h4>
+        <h4 class="price">R$${item.price}</h4>
       </header>
       <p class="item-text">
         ${item.desc}
