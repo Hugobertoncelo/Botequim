@@ -4,12 +4,11 @@
 	🚧  Em construção...  🚧
 </h4>
 
-
 Este projeto consiste em um cardápio digital interativo e responsivo, acessível através de QR Code, desenvolvido com HTML, CSS e JavaScript. O objetivo principal é facilitar a visualização do cardápio em dispositivos móveis, oferecendo uma experiência prática e intuitiva para o usuário.
 
 Veja o resultado deste projeto pelo QR Code abaixo, ou pelo [LINK](https://hugobertoncelo.github.io/Botequim/)
 
-![image](https://github.com/Hugobertoncelo/Botequim/blob/main/img/qrcode-botequim.png)
+![image](./img/qrcode-botequim.png)
 
 ## Funcionalidades
 
@@ -22,4 +21,3 @@ Veja o resultado deste projeto pelo QR Code abaixo, ou pelo [LINK](https://hugob
 <li>Interatividade: O usuário pode interagir com o cardápio, como adicionar itens a um carrinho de pedidos (opcional), filtrar pratos por categoria ou pesquisar por ingredientes.
 
 <li>Fácil de usar: A interface é intuitiva e de fácil navegação, permitindo que o usuário encontre rapidamente o que procura.
-
